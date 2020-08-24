@@ -4,19 +4,43 @@
 Words: 108
 Sentences: 6
 Characters: 580
- The score is: 12.864444444444445
-1This text should be understood by 18-24 year olds[1;31m
+Syllables: 193
+Polysyllables: 21
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 12.86 (about 24 year olds.)
+$Flesch–Kincaid readability tests: 12.52 (about 24 year olds).
+ Simple Measure of Gobbledygook: 13.95	  (about 24 year olds).
+Coleman–Liau index: 14.13 (about 24 year olds).
+-This text should be understood in average by 24.00 year olds.[1;31m
 Start test 2[0m
 
-Words: 100
-Sentences: 10
-Characters: 476
-The score is: 5.989599999999999
-1This text should be understood by 11-12 year olds[1;31m
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 206
+Polysyllables: 18
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 7.08 (about 14 year olds.)
+$Flesch–Kincaid readability tests: 5.97 (about 12 year olds).
+ Simple Measure of Gobbledygook: 9.74	  (about 16 year olds).
+Coleman–Liau index: 10.66 (about 17 year olds).
+-This text should be understood in average by 14.75 year olds.[1;31m
 Start test 3[0m
 
 Words: 180
 Sentences: 13
 Characters: 982
- The score is: 11.188743589743588
-1This text should be understood by 17-18 year olds
+Syllables: 300
+Polysyllables: 35
+@Enter the score you want to calculate (ARI, FK, SMOG, CL, all): 
+> all
+
+Automated Readability Index: 11.19 (about 18 year olds.)
+$Flesch–Kincaid readability tests: 9.48 (about 16 year olds).
+ Simple Measure of Gobbledygook: 12.64	  (about 24 year olds).
+Coleman–Liau index: 14.14 (about 24 year olds).
+-This text should be understood in average by 20.50 year olds.
